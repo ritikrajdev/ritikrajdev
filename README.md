@@ -28,7 +28,3 @@
 * **Terminal :** Kitty
 * **Shell :** Fish
 * **Code Editor :** neovim
-
-
-### 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ritikrajdev&theme=react-dark&area=true)
