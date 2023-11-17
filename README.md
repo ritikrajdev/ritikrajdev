@@ -2,7 +2,7 @@
 
 
 ### 🚀 About
-* I'm a Senior year undergrad in Computer Science 🎓 at Thapar Institute of Engineering and Technology 🏛.
+* I recently graduated in Computer Science 🎓 From Thapar Institute of Engineering and Technology 🏛.
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 * I love to explore new technologies and leverage them to solve real-life problems ✨.
 * I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
