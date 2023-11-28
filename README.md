@@ -27,4 +27,4 @@
 * **Browser :** Chromium
 * **Terminal :** Kitty
 * **Shell :** Fish
-* **Code Editor :** neovim
+* **Code Editor :** Visual Studio Code
